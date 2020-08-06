@@ -1,0 +1,62 @@
+Afonso Henrique:	
+Matricula: 1
+Curso: CC
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 48 51 53 70 54 48 65 66 54 4
+	
+Isadora Candine:	
+Matricula: 2
+Curso: CC
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 48 51 53 70 54 48 65 66 54 5
+	
+Lucca Borborema:	
+Matricula: 3
+Curso: CC
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 48 51 53 70 54 48 65 66 54 6
+	
+Gabriel Parisio:	
+Matricula: 4
+Curso: CC
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 48 51 53 70 54 48 65 66 54 3
+	
+Guilherme Agra:	
+Matricula: 5
+Curso: CC
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 48 51 53 65 70 50 65 67 70 3
+	
+Liliane Barros:	
+Matricula: 6
+Curso: DD
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 51 53 65 70 50 65 67 70 8
+	
+Bruno Ramos:	
+Matricula: 7
+Curso: DD
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 51 53 65 70 50 65 67 70 9
+	
+Victor Miranda:	
+Matricula: 8
+Curso: DD
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 51 53 65 70 50 65 67 70 9
+	
+Maria Laura:	
+Matricula: 9
+Curso: DD
+Periodo: 1
+Turma: A
+Tag: 2 55 70 48 51 53 65 70 50 65 67 70 92
