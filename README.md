@@ -1,2 +1,2 @@
-# projeto-1-check
- Projeto proposto pela CESAR School.
+# project-1-check
+ Project proposed by CESAR School.
