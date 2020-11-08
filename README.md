@@ -4,10 +4,17 @@
 Developed by:
 
 Afonso Henrique
+
 Bruno Ramos
+
 Gabriel Parisio
+
 Guilherme Agra
+
 Laura Ramos
+
 Liliane Barros
+
 Lucca Borborema
+
 Victor Miranda
